@@ -169,18 +169,12 @@ $(function() {
 	r.load("<div id='md'></div>");
 	var w = new Coder("md");
 	w.load("<h1 class='writecode'>简历</h1>");
-	w.load("<p><div class='writecode'>陈辰</div>");
-	w.load("<div class='writecode'>软件工程师(上海荟邮网络科技有限公司)</div>");
+	w.load("<p><div class='writecode'>Arthur</div>");
+	w.load("<div class='writecode'>软件工程师</div>");
 	w.load("<div class='writecode'>前端/NodeJS 开发工程师</div></p>");
-	w.load("<h1 class='writecode'>联系我</h1>");
-	w.load("<ul>");
-	w.load("<li class='writecode'>mail:114413511@qq.com</li>");
-	w.load("<li class='writecode'>blog:<a href='http://blog.youlunshidai.com' target='_blank'>blog.youlunshidai.com</a></li>");
-	w.load("<li class='writecode'>github:<a href='https://github.com/ccfromstar' target='_blank'>https://github.com/ccfromstar</a></li>");
-	w.load("</ul>");
 	w.load("<h1 class='writecode'>技能</h1>");
 	w.load("<ul>");
-	w.load("<li class='writecode'>精通Lotus/Domino开发技术，有过7年文档型数据库开发管理经验</li>");
+	w.load("<li class='writecode'>精通Lotus/Domino开发技术，有过2年文档型数据库开发管理经验</li>");
 	w.load("<li class='writecode'>熟练Nodejs技术,熟练运用express,sails,meteor框架</li>");
 	w.load("<li class='writecode'>熟练各种Web前端开发技术H5,CSS3,jQuery,React,Angular</li>");
 	w.load("<li class='writecode'>熟练与各平台和硬件的技术对接（如: 微信接口，三方支付，系统整合）</li>");
@@ -188,14 +182,6 @@ $(function() {
 	w.load("<li class='writecode'>熟练windows server,linux服务器部署和管理，及常见问题的处理</li>");
 	w.load("<li class='writecode'>熟练svn,git等常用版本管理工具</li>");
 	w.load("<li class='writecode'>有过BPM办公自动化流程引擎的开发经验</li>");
-	w.load("</ul>");
-	w.load("<h1 class='writecode'>项目</h1>");
-	w.load("<ul>");
-	w.load("<li class='writecode'><a href='http://www.huiyoulun.com' target='_blank'>www.huiyoulun.com</a></li>");
-	w.load("<li class='writecode'><a href='http://www.youlunshidai.com' target='_blank'>www.youlunshidai.com</a></li>");
-	w.load("<li class='writecode'><a href='http://wap.huiyoulun.com' target='_blank'>wap.huiyoulun.com</a></li>");
-	w.load("<li class='writecode'><a href='http://www.4000191177.com' target='_blank'>www.4000191177.com</a></li>");
-	w.load("<li class='writecode'><a href='http://jianianhua.youlunshidai.com/' target='_blank'>jianianhua.youlunshidai.com</a></li>");
 	w.load("</ul>");
 	c.load("<p><div class='comment writecode'>/**</div>");
 	c.load("<div class='comment writecode'>&nbsp;*左面的简历看起来不是太令人满意，让我们先给他来点动态渲染</div>");
@@ -265,8 +251,6 @@ $(function() {
 	c.load("<div class='comment writecode'>&nbsp;*这样基本上就差不多了</div>");
 	c.load("<div class='comment writecode'>&nbsp;*");
 	c.load("<div class='comment writecode'>&nbsp;*如果你想和我联系</div>");
-	c.load("<div class='comment writecode'>&nbsp;*QQ/微信:114413511</div>");
-	c.load("<div class='comment writecode'>&nbsp;*mobile:13611847679</div>");
 	c.load("<div class='comment writecode'>&nbsp;*最后非常感谢您愿意花3分钟看完我的简历！</div>");
 	c.load("<div class='comment writecode'>&nbsp;*/</div></p>");
 
