@@ -3,7 +3,7 @@ $(function() {
 	c.load("<p><div class='bef_comment writecode'>/**</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*hi,我的名字叫Arthur赵，是上海一家互联网公司的软件工程师</div>");
-	c.load("<div class='bef_comment writecode'>&nbsp;*我的主要工作是解决用户的交互体验</div>",2000);
+	c.load("<div class='bef_comment writecode'>&nbsp;*我的主要工作是解决用户的交互体验，并根据自己的兴趣爱好建立AI工作室，所以我设定了AI+Ambitious的合体。</div>",2000);
 	c.load("<div class='bef_comment writecode'>&nbsp;*让我们来点实际的，看看我能做些什么</div>");
 	c.load("<div class='bef_comment writecode'>&nbsp;*/</div></p>");
 	c.load("<p><div class='bef_comment writecode'>/**</div>");
