@@ -1,0 +1,1200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jarvis\n"
+"POT-Creation-Date: 2014-09-09 04:39+0530\n"
+"PO-Revision-Date: 2017-03-15 14:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:/wamp/www/jarvis/wp-content/themes/jarvis_wp\n"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/admin/classes/class.options_machine.php:545
+msgid "Last Backup : "
+msgstr "上次备份 : "
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/admin/front-end/options.php:43
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "保存所有更改"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "重置选项"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/admin/functions/functions.options.php:1111
+msgid "Project Description"
+msgstr "项目描述"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/admin/functions/functions.options.php:1117
+msgid "Project Details"
+msgstr "项目详情"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/archive.php:18
+msgid "Category Archive for:"
+msgstr "目录存档 :"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/archive.php:21
+msgid "Posts Tagged:"
+msgstr "文章标记："
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/archive.php:24
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/archive.php:27
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/archive.php:30
+msgid "Archive for:"
+msgstr "档案："
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/archive.php:33
+msgid "Author Archive:"
+msgstr "作者档案："
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/archive.php:36
+msgid "Blog Archives:"
+msgstr "博客档案："
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/archive.php:67
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/index.php:47
+msgid "No Posts Found"
+msgstr "没有发现文章"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "文章密码保护，输入密码继续查看"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:14
+msgid "Responses"
+msgstr "响应式"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:14
+msgid "Response <span>(1)</span>"
+msgstr "响应 <span>(1)</span>"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:14
+msgid "Responses <span>(%)</span>"
+msgstr "响应 <span>(%)</span>"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:34
+msgid "Comments are closed."
+msgstr "评论被关闭"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:48
+msgid "Name (required)"
+msgstr "姓名（必填）"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:50
+msgid "E-Mail (required)"
+msgstr "E-Mail ( 必填 )"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:52
+msgid "Website"
+msgstr "网站"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:58
+msgid "Leave a reply"
+msgstr "留下一个回复"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/comments.php:60
+msgid "Submit comment"
+msgstr "提交评论"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:21
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:243
+msgid "Email"
+msgstr "Email"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:24
+msgid "Aim"
+msgstr "Aim"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:27
+msgid "Apple"
+msgstr "Apple"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:30
+msgid "Behance"
+msgstr "Behance"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:33
+msgid "Blogger"
+msgstr "Blogger"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:36
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:32
+msgid "Delicious"
+msgstr "Delicious"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:39
+msgid "Deviantart"
+msgstr "Deviantart"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:42
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:27
+msgid "Digg"
+msgstr "Digg"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:45
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:48
+msgid "Ember"
+msgstr "Ember"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:51
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:7
+msgid "Facebook"
+msgstr "Facebook"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:54
+msgid "Flickr"
+msgstr "Flickr"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:57
+msgid "Forrst"
+msgstr "Forrst"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:60
+msgid "Google"
+msgstr "Google"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:63
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:66
+msgid "Gowalla"
+msgstr "Gowalla"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:69
+msgid "Grooveshark"
+msgstr "Grooveshark"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:72
+msgid "Html5"
+msgstr "Html5"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:75
+msgid "Lastfm"
+msgstr "Lastfm"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:78
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:81
+msgid "Metacafe"
+msgstr "Metacafe"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:84
+msgid "Mixx"
+msgstr "Mixx"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:87
+msgid "Netvibes"
+msgstr "Netvibes"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:90
+msgid "Paypal"
+msgstr "Paypal"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:93
+msgid "Picasa"
+msgstr "Picasa"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:96
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:99
+msgid "Plurk"
+msgstr "Plurk"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:102
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:22
+msgid "Reddit"
+msgstr "Plurk"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:105
+msgid "Rss"
+msgstr "Plurk"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:108
+msgid "Skype"
+msgstr "Plurk"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:111
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:114
+msgid "Technorati"
+msgstr "Technorati"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:117
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:120
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:12
+msgid "Twitter"
+msgstr "Twitter"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:123
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:126
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:129
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:132
+msgid "Yelp"
+msgstr "Yelp"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:135
+msgid "Youtube"
+msgstr "Youtube"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:138
+msgid "Instagram"
+msgstr "Instagram"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:141
+msgid "Xing"
+msgstr "Xing"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/footer.php:144
+msgid "Angel List"
+msgstr "Angel List"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:285
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:287
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:287
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:292
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论正在等待审核."
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:319
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/search.php:45
+msgid "Page"
+msgstr "页面"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:319
+msgid "of"
+msgstr "of"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:320
+msgid "First"
+msgstr "最新的"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:321
+msgid "Previous"
+msgstr "最早的"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:329
+msgid "Next"
+msgstr "下一页"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:330
+msgid "Last"
+msgstr "上一页"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:345
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/shortcodes.php:1525
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/shortcodes.php:1800
+msgid "Read More"
+msgstr "阅读更多"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:360
+msgid "Blog Sidebar"
+msgstr "博客侧边栏"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:362
+msgid "These are widgets for the Blog page."
+msgstr "这些是博客页面的小部件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:370
+msgid "Woocommerce Sidebar"
+msgstr "Woocommerce侧边栏"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:372
+msgid "These are widgets for the Woocommerce page."
+msgstr "这些是Woocommerce页面的小部件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:543
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/functions.php:549
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/meta-single.php:2
+msgid "Posted on "
+msgstr "Posted on "
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/meta-single.php:2
+msgid "in "
+msgstr "in "
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/meta.php:1
+msgid "View all posts by"
+msgstr "查看所有帖子"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/meta.php:2
+msgid "Written by "
+msgstr "Written by "
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/meta.php:6
+msgid "Posted in "
+msgstr "Posted in "
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr "个人信息"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr "全名"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/better-include.php:16
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr "Meta标题"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/better-include.php:19
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr "你的图像"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr "日期选择JS选项"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/date-time-js-options.php:15
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:72
+msgid "Date"
+msgstr "日期"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/date-time-js-options.php:21
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:188
+msgid "(yyyy-mm-dd)"
+msgstr "(yyyy-mm-dd)"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr "选择日期"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/date-time-js-options.php:24
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:189
+msgid "yy-mm-dd"
+msgstr "yy-mm-dd"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr "日期时间"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr "时间"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:38
+msgid "Standard Fields"
+msgstr "Standard Fields"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:57
+msgid "Text"
+msgstr "文本"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:61
+msgid "Text description"
+msgstr "文本描述"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:64
+msgid "Default text value"
+msgstr "默认的文本值"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:70
+msgid "Checkbox"
+msgstr "复选框"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:78
+msgid "Radio"
+msgstr "Radio"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:84
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:95
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:237
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:282
+msgid "Label1"
+msgstr "Label1"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:85
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:96
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:238
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:283
+msgid "Label2"
+msgstr "Label2"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:90
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:277
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/file-input.php:40
+msgid "Select"
+msgstr "选择"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:101
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:288
+msgid "Select an Item"
+msgstr "选择一个项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:108
+msgid "Hidden value"
+msgstr "隐藏值"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:112
+msgid "Password"
+msgstr "密码"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:118
+msgid "Textarea"
+msgstr "文本区域"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:119
+msgid "Textarea description"
+msgstr "文本描述"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:136
+msgid "Password is required"
+msgstr "需要密码"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:137
+msgid "Password must be at least 7 characters"
+msgstr "密码必须至少为7个字符"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:145
+msgid "Advanced Fields"
+msgstr "Advanced Fields"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:151
+msgid "Heading"
+msgstr "标题"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:156
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/slider.php:9
+msgid "Slider"
+msgstr "滑块"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:161
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/slider.php:14
+msgid "$"
+msgstr "$"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:162
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/slider.php:15
+msgid " USD"
+msgstr " USD"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:173
+msgid "Number"
+msgstr "数字"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:182
+msgid "Date picker"
+msgstr "日期选择"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:197
+msgid "Datetime picker"
+msgstr "日期时间选择"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:211
+msgid "Time picker"
+msgstr "时间选择"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:226
+msgid "Color picker"
+msgstr "颜色选择"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:232
+msgid "Checkbox list"
+msgstr "复选框列表"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:245
+msgid "Email description"
+msgstr "Email 描述"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:251
+msgid "Range"
+msgstr "范围"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:253
+msgid "Range description"
+msgstr "范围描述"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:262
+msgid "URL"
+msgstr "URL"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:264
+msgid "URL description"
+msgstr "URL 描述"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:270
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:272
+msgid "oEmbed description"
+msgstr "oEmbed描述"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:292
+msgid "Taxonomy"
+msgstr "分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:306
+msgid "Posts (Pages)"
+msgstr "Posts (Pages)"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:322
+msgid "WYSIWYG / Rich Text Editor"
+msgstr "所见即所得/富文本编辑器"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:327
+msgid "WYSIWYG default value"
+msgstr "所见即所得默认值"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:343
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/force-delete.php:15
+msgid "File Upload"
+msgstr "文件上传"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:349
+msgid "File Advanced Upload"
+msgstr "文件高级上传"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:357
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr "图像上传"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:363
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr "ThickBox图片上传"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:369
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr "plupload图片上传"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/demo.php:376
+msgid "Image Advanced Upload"
+msgstr "图片高级上传"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr "Test Meta Box"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/image-select.php:6
+msgid "Image Select Demo"
+msgstr "图像选择预览"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/image-select.php:10
+msgid "Layout"
+msgstr "布局"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/map.php:9
+msgid "Google Map"
+msgstr "Google地图"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/map.php:13
+msgid "Address"
+msgstr "地址"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr "Hanoi, Vietnam"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/map.php:19
+msgid "Location"
+msgstr "位置"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/oembed.php:6
+msgid "oEmbed Demo"
+msgstr "oEmbed 预览"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/oembed.php:10
+msgid "oEmbed(s)"
+msgstr "oEmbed(s)"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/slider.php:6
+msgid "Slider Demo"
+msgstr "幻灯片预览"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/url.php:6
+msgid "URL Demo"
+msgstr "URL Demo"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/demo/url.php:10
+msgid "URL(s)"
+msgstr "URL(s)"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/field.php:185
+msgid "+"
+msgstr "+"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/field.php:202
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/button.php:35
+msgid "Click me"
+msgstr "点击我"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr "选择文件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr "选择文件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr "移除"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "只能上传最大的 %d 文件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "只能上传最多的 %d 文件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr "错误：无法删除文件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr "选择图像"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/map.php:48
+msgid "Find Address"
+msgstr "寻找地址"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr "嵌入HTML不可用"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr "预览"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/post.php:52
+msgid "Post"
+msgstr "Post"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/post.php:66
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/taxonomy.php:40
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr "Select a %s"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/fields/user.php:54
+msgid "User"
+msgstr "用户"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/metaboxes/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr "请更正下面突出的错误，然后再试一次。"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:12
+msgid "Portfolio"
+msgstr "案例"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:13
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/search.php:57
+msgid "Portfolio Item"
+msgstr "案例项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:14
+msgid "Add New Item"
+msgstr "添加一个项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:15
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:17
+msgid "Add New Portfolio Item"
+msgstr "添加一个新案例项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:16
+msgid "Edit Portfolio Item"
+msgstr "编辑案例项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:18
+msgid "View Item"
+msgstr "查看项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:19
+msgid "Search Portfolio"
+msgstr "搜索项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:20
+msgid "No portfolio items found"
+msgstr "没有发现任何项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:21
+msgid "No portfolio items found in trash"
+msgstr "回收站没有发现案例项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:42
+msgid "Portfolio Categories"
+msgstr "案例分类目录"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:43
+msgid "Portfolio Category"
+msgstr "案例分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:44
+msgid "Search Portfolio Categories"
+msgstr "搜索案例分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:45
+msgid "Popular Portfolio Categories"
+msgstr "流行案例分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:46
+msgid "All Portfolio Categories"
+msgstr "所以案例分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:47
+msgid "Edit Portfolio Category"
+msgstr "编辑案例分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:48
+msgid "Update Portfolio Category"
+msgstr "上传案例分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:49
+msgid "Add New Portfolio Category"
+msgstr "新增案例分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:50
+msgid "New Portfolio Category Name"
+msgstr "新案例分类名"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:51
+msgid "Separate Portfolio Categories With Commas"
+msgstr "用一个逗号分开的案例类别"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:52
+msgid "Add or Remove Portfolio Categories"
+msgstr "添加或删除案例类别"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:53
+msgid "Choose From Most Used Portfolio Categories"
+msgstr "选择最常用的案例类别"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:54
+msgid "Parent Portfolio Category"
+msgstr "父级案例分类"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:69
+msgid "Title"
+msgstr "标题"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:70
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:71
+msgid "Author"
+msgstr "作者"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:96
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/portfolio-post-type.php:106
+msgid "None"
+msgstr "None"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:3
+msgid "Share the Story"
+msgstr "分享故事"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:17
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:37
+msgid "Google+"
+msgstr "Google+"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/share.php:42
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/shortcodes.php:918
+msgid "Scroll Down"
+msgstr "向下滚动"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/shortcodes.php:1524
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/shortcodes.php:1799
+msgid "Comments"
+msgstr "评论"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/tgm-plugin-activator.php:135
+msgid "Install Required Plugins"
+msgstr "安装需要的插件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/tgm-plugin-activator.php:136
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/tgm-plugin-activator.php:137
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安装插件: %s"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "出错了"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/tgm-plugin-activator.php:149
+msgid "Return to Required Plugins Installer"
+msgstr "返回到需要的插件安装程序"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/tgm-plugin-activator.php:150
+msgid "Plugin activated successfully."
+msgstr "成功激活插件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件安装并成功激活. %1$s"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "返回仪表板"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "成功激活下列插件: %s."
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "隐藏这个通知"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "外部链接"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "必须"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "推荐"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "未安装"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "安装但未激活"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"没有安装或激活插件. <a href=\"%1$s\" title=\"Return to the Dashboard\">返回到"
+"仪表板</a>"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "插件"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "源"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "类别"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "现状"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "安装"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "激活"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "安装包不可用。"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "下载安装包 <span class=\"code\">%s</span>&#8230;"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "插件安装失败。"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "插件安装成功。"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安装和激活过程开始，这需要一些时间，请耐心等待"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安装并成功激活"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "显示详细信息"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "隐藏详细信息"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活已完成。"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装和激活插件 %1$s (%2$d/%3$d)"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装和激活过程开始，这需要一些时间，请耐心等待"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装发生错误 %1$s: <strong>%2$s</strong>."
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 安装成功"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "所有安装已完成。"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件 %1$s (%2$d/%3$d)"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/tgm-plugin-activator.php:138
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出错了。"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/tgm-plugin-activation/tgm-plugin-activator.php:151
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "所有插件安装并成功激活. %s"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/widgets/embed.php:7
+msgid "Display Embed Video"
+msgstr "显示嵌入视频"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/widgets/embed.php:9
+msgid "RocknRolla Embed Video"
+msgstr "RocknRolla Embed Video"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/widgets/flickr.php:7
+msgid "Display your latest Flickr Photos"
+msgstr "显示您的最新Flickr照片"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/widgets/flickr.php:9
+msgid "RocknRolla Flickr"
+msgstr "RocknRolla Flickr"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/widgets/flickr.php:55
+msgid "Flickr idGettr"
+msgstr "Flickr idGettr"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/widgets/portfolio.php:7
+msgid "Display your latest Portfolio"
+msgstr "显示最新案例"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/includes/widgets/portfolio.php:9
+msgid "RocknRolla Portfolio Posts"
+msgstr "RocknRolla Portfolio Posts"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/portfolio_section.php:76
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/portfolio_section2.php:73
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/portfolio_section3.php:33
+msgid "All"
+msgstr "所有"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/portfolio_section.php:133
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/portfolio_section2.php:131
+msgid "portfolio-item"
+msgstr "案例-项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/portfolio_section.php:179
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/portfolio_section2.php:178
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/portfolio_section3.php:153
+msgid "Load More Posts"
+msgstr "载入更多的文章"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-audio.php:17
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-gallery.php:48
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-link.php:17
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-quote.php:16
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-video.php:26
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content.php:23
+msgid "<i class=\"fa fa-tasks\"></i> "
+msgstr "<i class=\"fa fa-tasks\"></i> "
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-audio.php:17
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-gallery.php:48
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-link.php:17
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-quote.php:16
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-video.php:26
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content.php:23
+msgid "<i class=\"fa fa-comments-o\"></i> 0"
+msgstr "<i class=\"fa fa-comments-o\"></i> 0"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-audio.php:17
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-gallery.php:48
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-link.php:17
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-quote.php:16
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-video.php:26
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content.php:23
+msgid "<i class=\"fa fa-comments-o\"></i> 1"
+msgstr "<i class=\"fa fa-comments-o\"></i> 1"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-audio.php:17
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-gallery.php:48
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-link.php:17
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-quote.php:16
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content.php:23
+msgid "<i class=\"fa fa-comments-o\"></i> %"
+msgstr "<i class=\"fa fa-comments-o\"></i> %"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/post-format/content-video.php:26
+msgid "<i class=\"fa fa-comments-alt\"></i> %"
+msgstr "<i class=\"fa fa-comments-alt\"></i> %"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/search.php:13
+msgid "Results For"
+msgstr "结果"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/search.php:38
+msgid "Blog Post"
+msgstr "博客"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/search.php:68
+msgid "Product"
+msgstr "产品"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/search.php:85
+msgid "No results found"
+msgstr "没有找到结果"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/searchform.php:2
+msgid "To search type and hit enter"
+msgstr "搜索类型并点击进入"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/single-portfolio.php:103
+msgid "Client: "
+msgstr "客户："
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/single-portfolio.php:105
+msgid "Tags: "
+msgstr "标签:"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/single-portfolio.php:108
+msgid "View Project"
+msgstr "查看项目"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/single.php:82
+msgid "About the Author"
+msgstr "关于作者"
+
+#: C:\wamp\www\jarvis\wp-content\themes\jarvis_wp/single.php:99
+msgid "No Post Found"
+msgstr "没有发现"
