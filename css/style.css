@@ -179,7 +179,6 @@ figure {
 }
 
 .fh5co-cover {
-  background-position: center center !important;
   background-size: cover;
   position: relative;
 }
@@ -362,7 +361,7 @@ figure {
   position: relative;
   left: 0;
   width: 100%;
-  z-index: 2000;
+  z-index: 1022;
   background: #fff;
 }
 
@@ -381,7 +380,7 @@ figure {
   margin-top: -5em;
   position: absolute;
   left: 50%;
-  margin-left: -102px;
+  margin-left: -61px;
 }
 @media screen and (max-width: 768px) {
   #main-logo {
@@ -1226,7 +1225,6 @@ figure {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  margin: 30px;
   background: #ff6666;
   color: #fff;
   border: none !important;

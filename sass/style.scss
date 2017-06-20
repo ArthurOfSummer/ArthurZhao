@@ -4,7 +4,7 @@ $grid-gutter-width: 40px;
 $border-radius-base:  4px;
 $padding-base-vertical: 14px;
 
-$brand-primary: #37a000;
+$brand-primary: #ff6666;
 $brand-secondary: #1fb5f6; 
 
 $brand-white: #fff;
@@ -171,7 +171,7 @@ figure {
 	z-index: 9999999;
 }
 .stuck {
-  position:fixed !important;
+  position:fixed!important;
   top:0!important;
   -webkit-box-shadow:0 2px 2px rgba(0,0,0,0.05);
 	-moz-box-shadow:0 2px 2px rgba(0,0,0,0.05);
@@ -265,7 +265,6 @@ figure {
 }
 
 .fh5co-cover{
-    background-position: center center;
 	background-size: cover;
 	position: relative;
 	@media screen and (max-width: $screen-sm) {

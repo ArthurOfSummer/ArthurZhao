@@ -1974,12 +1974,6 @@ pre code {
 }
 
 .row {
-    padding: 0;
-    position: relative;
-    left: 0;
-    width: 100%;
-    z-index: 1022;
-    background: #fff;
   margin-left: -15px;
   margin-right: -15px;
 }
