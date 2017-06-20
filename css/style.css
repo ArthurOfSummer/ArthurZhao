@@ -88,7 +88,8 @@ p {
 }
 
 .navbar-nav>li>a {
-    font-size: 14px bold;
+    font-size: 18px;
+    font-weight: bold;
     color: #f66;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase
