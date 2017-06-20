@@ -82,13 +82,14 @@ p {
 .logo h2 {}
 
 .logo h2 a {
-    color: #fff;
+    font-size: bold;
+    color: #f66;
     text-decoration: none
 }
 
 .navbar-nav>li>a {
-    font-size: 14px;
-    color: #fff;
+    font-size: 14px bold;
+    color: #f66;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase
 }
