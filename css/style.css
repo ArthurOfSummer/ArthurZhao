@@ -179,6 +179,7 @@ figure {
 }
 
 .fh5co-cover {
+  background-position: center center !important;
   background-size: cover;
   position: relative;
 }
