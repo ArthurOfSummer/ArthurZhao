@@ -1226,7 +1226,7 @@ figure {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  margin-top: 60px;
+  margin: 30px;
   background: #ff6666;
   color: #fff;
   border: none !important;
