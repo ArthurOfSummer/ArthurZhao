@@ -381,7 +381,7 @@ figure {
   margin-top: -5em;
   position: absolute;
   left: 50%;
-  margin-left: -61px;
+  margin-left: -75px;
 }
 @media screen and (max-width: 768px) {
   #main-logo {
@@ -582,7 +582,7 @@ figure {
 
 .heading-section {
   padding-bottom: 1em;
-  margin-bottom: 5em;
+  margin-bottom: 2em;
 }
 .heading-section:after {
   position: absolute;
@@ -595,6 +595,7 @@ figure {
   background: #ff6666;
 }
 .heading-section h3 {
+  margin-top: 20px;
   font-size: 40px;
   font-weight: 300;
   position: relative;
@@ -605,7 +606,7 @@ figure {
 
 .feature-text h3 {
   font-size: 16px;
-  margin-bottom: 10px;
+  margin-bottom: : 10px;
   font-weight: 700;
   color: #000;
 }
@@ -716,7 +717,7 @@ figure {
 }
 
 #fh5co-portfolio {
-  padding: 7em 0;
+  padding: 0 0;
   min-height: 500px;
 }
 @media screen and (max-width: 768px) {
@@ -800,10 +801,10 @@ figure {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 13px;
-  color: rgba(255, 255, 255, 0.7);
+  color: #f66;
 }
 #fh5co-portfolio-list li a .case-studies-summary h2 {
-  color: #fff;
+  color: #f66;
   margin-bottom: 0;
 }
 @media screen and (max-width: 768px) {
@@ -906,7 +907,7 @@ figure {
 }
 
 #fh5co-feature-product {
-  padding: 7em 0;
+  padding: 2em 0;
 }
 
 #fh5co-services, #fh5co-about, #fh5co-contact {
@@ -1460,7 +1461,7 @@ figure {
 }
 
 .row-bottom-padded-md {
-  padding-bottom: 4em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 768px) {
   .row-bottom-padded-md {
