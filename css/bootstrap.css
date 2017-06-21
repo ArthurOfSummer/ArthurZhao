@@ -1974,9 +1974,11 @@ pre code {
 }
 
 .row {
+  
   margin-left: -15px;
   margin-right: -15px;
 }
+
 .row:before, .row:after {
   content: " ";
   display: table;
@@ -2210,7 +2212,7 @@ pre code {
   }
 
   .col-sm-2 {
-    width: 16.66667%;
+    width: 33.33333%;
   }
 
   .col-sm-3 {
