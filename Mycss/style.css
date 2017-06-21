@@ -115,6 +115,11 @@ figure {
 	font-size:0;
 	overflow:hidden;
 }
+.fh5co-project.masonry-brick img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 @media screen and (max-width: 480px) {
   #fh5co-header nav ul li a {
     padding: 5px;

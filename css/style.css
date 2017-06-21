@@ -193,6 +193,11 @@ figure {
     height: auto;
     overflow: hidden;
 }
+.fh5co-projects-feed .fh5co-project {
+    float: left;
+    margin: 20px 20px 20px;
+    width: 290px;
+}
 @media screen and (max-width: 768px) {
   .fh5co-cover {
     heifght: inherit;
