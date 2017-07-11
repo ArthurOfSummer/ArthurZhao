@@ -70,6 +70,7 @@ figure {
   color: #fcfcfc;
   background: #2da9d7;
 }
+
 #video_background {
     position: absolute;
     top: 0;
@@ -186,12 +187,15 @@ figure {
 
 .page-content {
   margin: 0 auto;
-  max-width: 620px;
+  max-width: 800px;
   width: 100%;
   padding-top: 70px;
   padding-bottom: 70px;
 }
 .page-content img {
+  max-width: 100%;
+}
+.page-content video{
   max-width: 100%;
 }
 @media screen and (max-width: 768px) {
