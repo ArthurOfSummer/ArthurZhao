@@ -116,6 +116,9 @@ figure {
 	font-size:0;
 	overflow:hidden;
 }
+.video{
+	margin:20px 0;
+}
 .fh5co-project.masonry-brick img {
     display: block;
     max-width: 100%;
