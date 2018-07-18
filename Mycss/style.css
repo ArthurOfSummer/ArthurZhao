@@ -119,6 +119,9 @@ figure {
 .video{
 	margin:20px 0;
 }
+.arthurresume{
+	float: right;
+}
 .fh5co-project.masonry-brick img {
     display: block;
     max-width: 100%;
